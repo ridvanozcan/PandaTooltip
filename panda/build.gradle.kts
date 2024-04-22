@@ -68,8 +68,8 @@ afterEvaluate {
         publications {
             register<MavenPublication>("release") {
                 groupId = "com.github.ridvanozcan"
-                artifactId = "panda"
-                version = "1.0.3"
+                artifactId = "pandatooltip"
+                version = "1.0.4"
 
                 from(components["release"])
             }
