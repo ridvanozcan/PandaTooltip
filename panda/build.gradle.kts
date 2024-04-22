@@ -1,3 +1,4 @@
+@Suppress("DSL_SCOPE_VIOLATION")
 plugins {
     alias(libs.plugins.androidLibrary)
     alias(libs.plugins.jetbrainsKotlinAndroid)
@@ -12,6 +13,9 @@ android {
         minSdk = 24
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        vectorDrawables {
+            useSupportLibrary = true
+        }
         consumerProguardFiles("consumer-rules.pro")
     }
 
@@ -64,8 +68,8 @@ afterEvaluate {
         publications {
             register<MavenPublication>("release") {
                 groupId = "com.github.ridvanozcan"
-                artifactId = "pandaLib"
-                version = "1.0.2"
+                artifactId = "panda"
+                version = "1.0.3"
 
                 from(components["release"])
             }
