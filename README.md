@@ -1,3 +1,10 @@
+<h1 align="center">PandaTooltip | Customizable Tooltips</h1></br>
+
+<p align="center">
+🐼 Customizable Tooltips on Android Jetpack Compose.
+</p>
+</br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -5,13 +12,15 @@
 </p>
 
 <p align="center">
-  <a href="https://mailchi.mp/kotlinweekly/kotlin-weekly-389"><img alt="Kotlin Weekly" src="https://skydoves.github.io/badges/kotlin-weekly2.svg"/></a>
+  <a href="https://www.linkedin.com/in/ridvanozcan/"><img alt="LinkedIn" src="https://skydoves.github.io/badges/linkedin-developers.svg"/></a>
+    <a href="https://medium.com/@ridvanozcan48"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a><br>
+  <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
+  <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat"/></a>
+   <a href="https://mailchi.mp/kotlinweekly/kotlin-weekly-389"><img alt="Kotlin Weekly" src="https://skydoves.github.io/badges/kotlin-weekly2.svg"/></a>
   <img src="https://jitpack.io/v/ridvanozcan/PandaTooltip.svg">
-  <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg">
 </p>
 
-## PandaTooltip | Customizable Tooltips
-Customizable Tooltips Android Jetpack Compose
+## Demo Image
 
 <p align="start">
  <img src="images/image.png" width="250" height="500"/>
